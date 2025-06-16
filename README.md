@@ -1,29 +1,43 @@
-# Jogo do Labirinto: Gato e Queijo
+# 🐱🧀 Labirinto do Gato
 
-## Descrição
-Um jogo 2D onde o objetivo é guiar um gato por um labirinto até encontrar um pedaço de queijo. O labirinto é gerado dinamicamente, com diferentes níveis de dificuldade. O tempo de conclusão é registrado e o melhor tempo é salvo como recorde.
+Bem-vindo ao **Labirinto do Gato**! Um jogo 2D criado com auxílio de IA e lowcode, onde você guia um gato faminto por um labirinto até encontrar um delicioso pedaço de queijo. 🐾
 
-## Como Jogar
+## 🤖 Sobre o Projeto
+Este projeto foi desenvolvido utilizando técnicas de lowcode e inteligência artificial para acelerar a criação do jogo, desde a lógica até a interface e sprites. O objetivo é mostrar como é possível criar jogos divertidos e completos com auxílio de IA!
+
+## 🎮 Como Jogar
 - Use as teclas de seta ou W, A, S, D para mover o gato.
 - O objetivo é alcançar o queijo no menor tempo possível.
 - O cronômetro é exibido na tela.
 - O recorde de menor tempo é salvo automaticamente.
-- Pressione R para reiniciar o jogo a qualquer momento.
+- Pressione `R` para reiniciar o jogo a qualquer momento.
 
-## Requisitos
-- Python 3.x
-- pygame
+## 🏆 Funcionalidades
+- Labirinto gerado dinamicamente a cada partida
+- Três níveis de dificuldade (fácil, médio, difícil)
+- Sistema de recorde de tempo
+- Sons de passos e vitória (opcional)
+- Sprites personalizados para o gato e o queijo
 
-## Execução
-Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-Execute o jogo:
-```bash
-python main.py
-```
+## 📹 Demo
+Veja o jogo em ação:
 
-## Créditos
+![Demo do Jogo](assets/demo.gif)
+
+## 🚀 Instalação
+1. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Execute o jogo:
+   ```bash
+   python main.py
+   ```
+
+## 📂 Créditos
 - Gato e queijo: sprites livres ou gerados por IA.
-- Sons: livres de direitos autorais. 
+- Sons: livres de direitos autorais.
+
+---
+
+Feito com ❤️ por Brayan 
